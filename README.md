@@ -1,8 +1,11 @@
 # C Sorting Algorithms
 This project demonstrates the implementation of three fundamental sorting algorithms in C:
-  Bubble Sort
-  Selection Sort
-  Insertion Sort
+
+Bubble Sort 
+
+Selection Sort
+
+Insertion Sort
 
 ## Overview
 Sorting algorithms are used to arrange data in a specific order. This project provides simple implementations of commonly used sorting techniques and displays both the unsorted and sorted arrays.
