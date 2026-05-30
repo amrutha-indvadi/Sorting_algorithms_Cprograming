@@ -1,4 +1,4 @@
-# C++ Sorting Algorithms
+# C Sorting Algorithms
 This project demonstrates the implementation of three fundamental sorting algorithms in C++:
   Bubble Sort
   Selection Sort
